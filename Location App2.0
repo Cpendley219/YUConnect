@@ -1,0 +1,21 @@
+Enter City location or enable GPS
+			while loading splash screen, app saves data in the background
+	App displays list of events in marked location sorted by date a bolded line will breakup events by date
+	events you joined will show up with a bell next to them to show you have joined.
+	if no events have been made you will be notified with a pop up on your screen and it will make you click okay before continuing
+		if you click on an event it will display the date, description and location of the event.
+			While on this page you can click participants, two screens will load up
+			one will show you who declined the event
+			one will show you who joined the event
+	while on this page you will be able to bookmark event on your calendar
+	On top left of screen clicking a house will take you back to the home page
+	Home page=large map
+	While on the large map you can scroll throughout your marked location to view events nearby
+	Also While on the large map there will be 3 tabs you can click on, Calandar, Bell, Plus, Gear
+		if you click on the calendar it will take you to a calendar where it shows all events happening in marked location
+		if you click on the bell it will show you all events you have joined
+		if you click on the plus it will allow you to create an event or edit an existing event YOU created
+	When creating an event you must include a title, location, time and date for your event.
+	You can include a description but it is not required.
+		if you click on the gear it will allow you to adjust your settings, such as your location, name, picture
+	While in any of the tabs the home button when clicked will take you back to the large map
